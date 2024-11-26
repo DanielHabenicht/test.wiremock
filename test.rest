@@ -1,0 +1,14 @@
+### Test
+POST http://localhost:8080/v1/chat/completions
+Content: dfdsf
+
+
+
+
+### models
+
+GET http://localhost:8080/v1/models
+
+### test
+
+GET http://localhost:8080/test
